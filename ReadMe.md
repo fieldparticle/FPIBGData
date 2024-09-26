@@ -1,4 +1,4 @@
-# FPIBG
+# FPIBGDAta
 Fast Index-based GPU particle Collision Detection
 
 Overview
